@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sthifer&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=sthifer&color=blueviolet&style=flat-square&label=Visitas+a+mi+perfil)
