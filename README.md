@@ -1,4 +1,6 @@
-## **Tecnologías que uso**
+# Javier Martínez
+
+## **Languages and Tools:**
 <p>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
@@ -8,9 +10,11 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/react.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/wordpress.svg" />
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
 </p>
 
-## **¿Dónde encontrarme?**
+
+## **Contact me**
 <p>
   <a href="https://www.linkedin.com/in/jamartif/" Target="_blank" ><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" /></a>
 </p>
